@@ -1,0 +1,12 @@
+{
+  "status": "teste_nao_agendado",
+  "linha_editorial": "Radar da saúde",
+  "formato": "Reel 9:16",
+  "duracao_segundos": 16.57,
+  "fonte": {
+    "nome": "Apple Newsroom",
+    "data": "2026-09-09",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/"
+  },
+  "legenda": "A Apple anunciou uma nova nota diária de prontidão para o Apple Watch Series 12 e Ultra 4. O recurso considera atividade recente, sinais vitais e sono para gerar uma pontuação de 0 a 10, que pode mudar ao longo do dia.\n\nA disponibilidade varia conforme o aparelho e a região. O recurso é voltado a wellness e não substitui avaliação médica.\n\nVocê ajustaria o treino com base nessa nota?\n\nIB/imagens: Apple Newsroom\n\n#saude #wellness #applewatch #treinohibrido"
+}
