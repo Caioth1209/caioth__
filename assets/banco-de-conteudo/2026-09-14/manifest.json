@@ -1,0 +1,36 @@
+{
+  "collection": "Banco de conteúdo pessoal do @caioth__",
+  "imported_at": "2026-09-14",
+  "ownership": "Conteúdo próprio de Caio Araujo; não exige IB na legenda.",
+  "source_files": {
+    "IMG_4977.MOV": "corrida-rua-molhada.mp4",
+    "IMG_4905.mov": "corrida-selfie-pos-treino.mp4",
+    "IMG_5190.MOV": [
+      "musculacao-remada-maquina-parte-00.mp4",
+      "musculacao-remada-maquina-parte-01.mp4"
+    ],
+    "IMG_5015.mov": [
+      "musculacao-rosca-halteres-amarela-parte-00.mp4",
+      "musculacao-rosca-halteres-amarela-parte-01.mp4",
+      "musculacao-rosca-halteres-amarela-parte-02.mp4",
+      "musculacao-rosca-halteres-amarela-parte-03.mp4"
+    ],
+    "IMG_5118.mov": [
+      "musculacao-rosca-halteres-preta-parte-00.mp4",
+      "musculacao-rosca-halteres-preta-parte-01.mp4",
+      "musculacao-rosca-halteres-preta-parte-02.mp4",
+      "musculacao-rosca-halteres-preta-parte-03.mp4"
+    ],
+    "IMG_5196.MOV": "musculacao-rosca-scott.mp4",
+    "IMG_5209.HEIC": "retrato-elevador-flamengo.jpg",
+    "IMG_4875.HEIC": "retrato-elevador-regata-preta.jpg",
+    "IMG_4888.heic": "retrato-pos-corrida.jpg"
+  },
+  "processing": "Vídeos convertidos para MP4 H.264/AAC em 1080p e gravações longas divididas em trechos de até aproximadamente 10 segundos. Fotos convertidas de HEIC para JPEG em alta resolução.",
+  "usage": [
+    "Giro de treino",
+    "Não sou atleta, só não pulo treino",
+    "Coisas que só quem treina cedo entende",
+    "Diário de bordo"
+  ]
+}
